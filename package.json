@@ -1,0 +1,21 @@
+{
+  "name": "articfoxstudio",
+  "displayName": "ArticFoxStudio",
+  "description": "A dark VSCode theme by ArticFoxStudio",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ArticFoxStudio",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ArticFoxStudio-color-theme.json"
+      }
+    ]
+  }
+}
